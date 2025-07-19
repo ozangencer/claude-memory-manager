@@ -1,4 +1,4 @@
-# Ozan's Memory
+# claude-memory-manager
 
 A modern memory management application built with React and TypeScript. This application allows you to manage entities and their relationships in a visual and intuitive way.
 
@@ -25,8 +25,8 @@ A modern memory management application built with React and TypeScript. This app
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/memory-manager.git
-cd memory-manager
+git clone https://github.com/ozangencer/claude-memory-manager.git
+cd claude-memory-manager
 ```
 
 2. Install dependencies:
@@ -36,6 +36,7 @@ npm install
 
 3. Create a memory.jsonl file in your documents folder:
 ```bash
+mkdir -p ~/Documents/Memory
 touch ~/Documents/Memory/memory.jsonl
 ```
 
